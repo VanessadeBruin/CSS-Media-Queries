@@ -1,0 +1,46 @@
+.css-border 
+{
+    border: 5px solid #A0522D;
+    margin: 20px;
+    padding: 20px;
+}
+   
+.css-center
+{ margin: 0 auto;
+    width: 500px;
+
+}
+
+.css-ul li
+     {
+         display: inline;
+         margin: 10 px;
+            background-color: #dddddd;
+            }
+   
+ head{ 
+                color: #003333;
+                font-family: 'Courier New';
+                font-size: larger;
+                font-weight: bold;
+            }
+            
+ body { color: #8B0000;
+                    background-color: #c0c0c0;
+                    font-family: 'Courier New';
+                    font-size: medium;
+                    font-weight: normal;
+            }
+footer             { color: #8B0000;
+                   background-color: #c0c0c0;
+                   font-family: 'Courier New';
+                   font-size: medium;
+                   font-weight: normal;
+
+ nav         {
+              color:navy;  
+              font-family: 'Courier New';
+             font-size: small;
+        font-weight: lighter;
+            }
+        
